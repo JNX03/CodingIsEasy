@@ -58,7 +58,7 @@ const fullname = (fname, lname) => {
     return fname + " " + lname;
 };
 
-console.log(fullname("Chawabhon", "Netisngha")); // แสดงผล "Chawabhon Netisngha"
+console.log(fullname("Sigma", "Ohio")); // แสดงผล "Sigma Ohio"
 ```
 
 ---
