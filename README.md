@@ -106,8 +106,8 @@ console.log(address);
 จะได้ผลลัพธ์ดังนี้:
 
 ```
-Name: Chawabhon
-address: Chiang Mai
+Name: Alya
+address: Japan
 tel: 78987654345678765
 ```
 
@@ -137,12 +137,12 @@ if (x == 5) {
 const fullname = (fname, lname) => {
     return fname + " " + lname;
 };
-console.log(fullname("Chawabhon", "Netisngha"));
+console.log(fullname("YouNameSigma", "TwT"));
 
 // Object ที่มีคุณสมบัติและฟังก์ชัน
-const name = "chawabon";
+const name = "EZ";
 const age = 99;
-const adress = "Chiang Mai";
+const adress = "Lol";
 
 const customer = {
     ctmanme: name,
