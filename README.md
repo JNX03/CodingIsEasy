@@ -69,9 +69,9 @@ console.log(fullname("Chawabhon", "Netisngha")); // แสดงผล "Chawabho
 
 ### ตัวอย่าง:
 ```javascript
-const name = "chawabon";
+const name = "Sigma Rizz Ohio";
 const age = 99;
-const adress = "Chiang Mai";
+const adress = "Russian";
 
 const customer = {
     ctmanme: name,
@@ -79,7 +79,7 @@ const customer = {
     address: adress,
 
     showdata() {
-        console.log("Name: " + this.ctmanme); // แสดงผล "Name: chawabon"
+        console.log("Name: " + this.ctmanme); // แสดงผล "Name: Sigma Rizz Ohio"
     }
 };
 
@@ -95,9 +95,9 @@ customer.showdata(); // เรียกใช้ฟังก์ชันใน�
 
 ### ตัวอย่าง:
 ```javascript
-let ctmname = "Chawabhon";
+let ctmname = "Alya";
 const address = `Name: ${ctmname}
-address: Chiang Mai
+address: Japan
 tel: 78987654345678765`;
 
 console.log(address);
